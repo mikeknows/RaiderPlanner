@@ -37,6 +37,7 @@ public class Main extends Application {
 		// If initialization passed, call the Main menu:
 		MainController.main();
 		// UiManager.areYouFeelingLucky();
+		System.out.println("ok");
 	}
 
 	/**
