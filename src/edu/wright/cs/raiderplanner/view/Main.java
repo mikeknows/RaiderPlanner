@@ -33,7 +33,6 @@ import javafx.stage.Stage;
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		// Initialize the StudyPlanner:
 		MainController.initialise();
 		// If initialization passed, call the Main menu:
 		MainController.main();
